@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/cotybro/url-shorten)
+- Live Site URL: [Live site](https://url-shorten-plum.vercel.app/)
 
 ## My process
 
