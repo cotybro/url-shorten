@@ -22,6 +22,7 @@ Users should be able to:
   - The `input` field is empty
 
 ### Screenshot
+![Project-five](https://github.com/cotybro/url-shorten/assets/36529826/7399698e-d981-452e-a049-6fce0a055136)
 
 ### Links
 
