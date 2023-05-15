@@ -1,0 +1,11 @@
+.container {
+  background-color: #eff1f7;
+}
+
+.main {
+  position: relative;
+  padding-top: 6.5rem;
+
+  max-width: 1440px;
+  margin: 0 auto;
+}

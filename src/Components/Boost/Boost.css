@@ -1,0 +1,50 @@
+.boost__wrapper {
+  background-image: url(../../assets/images/bg-boost-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #3a3054;
+  display: flex;
+  justify-content: center;
+}
+
+.boost__container {
+  padding: 3.5rem 0;
+  text-align: center;
+}
+
+.boost__title {
+  font-size: 2.5rem;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: -1px;
+  margin-bottom: 2rem;
+}
+
+.btn__boost {
+  padding: 0.875rem 2.5rem;
+  border-radius: 28px;
+}
+
+@media screen and (max-width: 738px) {
+  .boost__container {
+    padding: 5.625rem 0;
+  }
+
+  .boost__wrapper {
+    background-image: url(../../assets/images/bg-boost-mobile.svg);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .boost__title {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+  }
+
+  .btn__boost {
+    padding: 0.875rem 2.5rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+}
